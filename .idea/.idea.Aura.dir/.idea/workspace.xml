@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4240778-f6c9-41ef-ac42-3a51e4967c89" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraCharacterBase.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraCharacterBase.h" afterDir="false" />
-    </list>
+    <list default="true" id="a4240778-f6c9-41ef-ac42-3a51e4967c89" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +27,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Uproject.Aura.executor": "Run",
@@ -120,7 +119,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703141679114</updated>
       <workItem from="1703141681065" duration="398000" />
-      <workItem from="1703155203896" duration="609000" />
+      <workItem from="1703155203896" duration="1476000" />
     </task>
     <servers />
   </component>
